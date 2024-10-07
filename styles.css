@@ -6,6 +6,8 @@ body {
 
     margin: 0px;
 
+    font-family: "Chakra Petch", sans-serif;
+
 }
 
 
@@ -26,15 +28,15 @@ header {
 
 section {
 
-	background: rgb(184,156,213);
+    background: rgb(184, 156, 213);
 
-	padding-bottom: 80px;
+    padding-bottom: 80px;
 
-	padding-top: 80px;
+    padding-top: 80px;
 
-	display: flex;
+    display: flex;
 
-	justify-content: center;
+    justify-content: center;
 
 }
 
@@ -43,5 +45,21 @@ section {
 .chamada-texto {
 
     margin-right: 5%;
+
+}
+
+
+
+h1 {
+
+    font-size: 40px;
+
+}
+
+
+
+p {
+
+    font-size: 20px;
 
 }
