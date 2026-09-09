@@ -14,7 +14,6 @@ Catálogo de vídeos estilo Netflix com HTML e CSS - projeto da Alura.
 - [Como executar](#como-executar)
 - [Estrutura](#estrutura)
 - [Licença](#licença)
-- [Autor](#autor)
 
 ## 📖 Sobre
 
@@ -58,9 +57,3 @@ AluraFlix/
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-## 👤 Autor
-
-**VictorHFL**
-
-- GitHub: [@VictorHFL](https://github.com/VictorHFL)
-- E-mail: yvictorhfl@gmail.com
