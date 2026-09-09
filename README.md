@@ -1,12 +1,12 @@
-# AluraFlix
+# 🎬 AluraFlix
 
-Catálogo de vídeos estilo Netflix com HTML e CSS — projeto da Alura.
+Catálogo de vídeos estilo Netflix com HTML e CSS - projeto da Alura.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Sumário
+## 📑 Sumário
 
 - [Sobre](#sobre)
 - [Funcionalidades](#funcionalidades)
@@ -16,25 +16,25 @@ Catálogo de vídeos estilo Netflix com HTML e CSS — projeto da Alura.
 - [Licença](#licença)
 - [Autor](#autor)
 
-## Sobre
+## 📖 Sobre
 
 Página "Guiminamflix" inspirada na interface da Netflix para exibir um vídeo em destaque e uma grade de filmes/séries com thumbnails do YouTube.
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - Chamada em destaque com `<iframe>` do YouTube
 - Grade de categorias com links para vídeos
 - Tipografia Chakra Petch via Google Fonts
 - Layout escuro estilo streaming
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - HTML5
 - CSS3 (Flexbox, hover em thumbnails)
 - Google Fonts
 - Embeds e thumbnails do YouTube (`img.youtube.com`)
 
-## Como executar
+## 🚀 Como executar
 
 ```bash
 git clone https://github.com/VictorHFL/AluraFlix.git
@@ -45,7 +45,7 @@ cd AluraFlix
 > [!NOTE]
 > É preciso internet para carregar fontes, iframe e thumbnails do YouTube.
 
-## Estrutura
+## 📁 Estrutura
 
 ```text
 AluraFlix/
@@ -54,11 +54,11 @@ AluraFlix/
 └── README.md
 ```
 
-## Licença
+## 📄 Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-## Autor
+## 👤 Autor
 
 **VictorHFL**
 
